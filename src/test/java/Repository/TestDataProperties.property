@@ -1,0 +1,5 @@
+ChromeDriver= src\\test\\resources\\chromedriver.exe
+ApplicationURL= https://coinmarketcap.com/
+FirstPriceTextValue= 100
+SecondPriceTextValue= 10000
+Log4jConfigure=
