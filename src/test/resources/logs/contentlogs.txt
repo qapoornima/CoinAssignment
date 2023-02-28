@@ -1,0 +1,40 @@
+ [INFO ] Number of available names are:20 
+ [INFO ] Available names are :Bitcoin 
+ [INFO ] Available names are :Ethereum 
+ [INFO ] Available names are :Tether 
+ [INFO ] Available names are :BNB 
+ [INFO ] Available names are :USD Coin 
+ [INFO ] Available names are :XRP 
+ [INFO ] Available names are :Cardano 
+ [INFO ] Available names are :Dogecoin 
+ [INFO ] Available names are :Polygon 
+ [INFO ] Available names are :Binance USD 
+ [INFO ] Available names are :Solana 
+ [INFO ] Available names are :Polkadot 
+ [INFO ] Available names are :Shiba Inu 
+ [INFO ] Available names are :Litecoin 
+ [INFO ] Available names are :TRON 
+ [INFO ] Available names are :Avalanche 
+ [INFO ] Available names are :Dai 
+ [INFO ] Available names are :Uniswap 
+ [INFO ] Available names are :Wrapped Bitcoin 
+ [INFO ] Available names are :Chainlink 
+ [INFO ] Number of available prices are:15 
+ [INFO ] Available prices are :$23,322.23 
+ [INFO ] Available prices are :$1,624.54 
+ [INFO ] Available prices are :$1.00 
+ [INFO ] Available prices are :$302.54 
+ [INFO ] Available prices are :$1.00 
+ [INFO ] Available prices are :$0.3739 
+ [INFO ] Available prices are :$0.08136 
+ [INFO ] Available prices are :$1.22 
+ [INFO ] Available prices are :$1.00 
+ [INFO ] Available prices are :$22.25 
+ [INFO ] Available prices are :$6.47 
+ [INFO ] Available prices are :$93.82 
+ [INFO ] Available prices are :$17.49 
+ [INFO ] Available prices are :$6.50 
+ [INFO ] Available prices are :$7.27 
+ [INFO ] Number of Filter names are:2 
+ [INFO ] $149.97 Does not available from the list of 20 rows 
+ [INFO ] $132.67 Does not available from the list of 20 rows 

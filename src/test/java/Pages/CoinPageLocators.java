@@ -15,8 +15,10 @@ public class CoinPageLocators {
 	
 	WebDriver driver;
 	Utility utility;
-	public CoinPageLocators(WebDriver Idriver)
+	
+	public CoinPageLocators(WebDriver Idriver) throws Exception
 	 {
+		utility = new Utility();
 		this.driver=Idriver;
 		}
 	
@@ -68,7 +70,6 @@ public class CoinPageLocators {
 	
 	public By ava_name= By.xpath("//p[contains(text(),'Name')]//following::p[@class='sc-e225a64a-0 ePTNty']");
 	public By ava_price= By.xpath("//p[contains(text(),'Price')]//following::div[@class='sc-8bda0120-0 dskdZn']");
-	
 	public By filter_name= By.xpath("//p[contains(text(),'Price')]//following::div[@class='sc-8bda0120-0 dskdZn']");
 	
 	
@@ -132,6 +133,7 @@ public class CoinPageLocators {
 	
 	public void priceText1()
 	{
+		
 		priceText1.sendKeys(utility.getFirstPriceValue());
 	}
 	
