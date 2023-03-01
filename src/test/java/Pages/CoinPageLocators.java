@@ -73,7 +73,6 @@ public class CoinPageLocators {
 	public By filter_name= By.xpath("//p[contains(text(),'Price')]//following::div[@class='sc-8bda0120-0 dskdZn']");
 	
 	
-	
 	public void MoveToRow() {
 		Actions act=new Actions(driver);
 		 act.moveToElement(elementRow).click().build().perform();
@@ -152,5 +151,4 @@ public class CoinPageLocators {
 		showresults.click();
 	}
 	
-
 }
